@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="business" />
+        <module name="derbyDAO" />
+        <module name="integration" />
+        <module name="model" />
+        <module name="richclient" />
+        <module name="utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="binserver" target="1.9" />
+      <module name="business" target="1.9" />
+      <module name="connection" target="1.9" />
+      <module name="connectionText" target="1.9" />
+      <module name="derbyDAO" target="1.9" />
+      <module name="integration" target="1.9" />
+      <module name="lib2017" target="1.9" />
+      <module name="model" target="1.9" />
+      <module name="modultemplate" target="1.9" />
+      <module name="protocol" target="1.9" />
+      <module name="proxy" target="1.9" />
+      <module name="richclient" target="1.9" />
+      <module name="utils" target="1.9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

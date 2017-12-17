@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Dec 17 22:10:39 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0160-6650-7a59-000002dc1748 
+on database directory /home/danecek/libraryDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@68837a77 
+Loaded from file:/home/danecek/Vyuka/bi-apj/2017/lib2017/derby/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=9.0.1+11
+user.dir=/home/danecek/Vyuka/bi-apj/2017/lib2017
+os.name=Linux
+os.arch=amd64
+os.version=3.19.0-32-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
